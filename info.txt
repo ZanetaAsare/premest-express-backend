@@ -1,0 +1,3 @@
+Username = zaneta
+Password = l4ouVDPH7SNCycgJ
+Db connection = mongodb+srv://zaneta:<password>@cluster0.oifxj.mongodb.net/<dbname>
